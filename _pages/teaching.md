@@ -13,11 +13,7 @@ I believe that teaching is a vital aspect of being a professor. My goal as an in
 <ul class="teaching-list">
   <li>
     <span class="teaching-title">Intro to International Relations</span>
-    <span class="teaching-meta">Graduate Teaching Assistant and Section Leader, Spring 2025</span>
-  </li>
-  <li>
-    <span class="teaching-title">Intro to International Relations</span>
-    <span class="teaching-meta">Graduate Teaching Assistant and Section Leader, Winter 2025</span>
+    <span class="teaching-meta">Graduate Teaching Assistant and Section Leader, Spring 2025, Winter 2025</span>
   </li>
   <li>
     <span class="teaching-title">Scientific Study of War</span>
