@@ -7,6 +7,12 @@ author_profile: true
 
 Drawing from my undergraduate liberal arts experience, I believe that teaching is a vital aspect of being a professor. My goal as an instructor is to promote a challenging and inclusive environment for all students. I take great care to promote critical thinking and advance students' understanding of the course material.  I emphasize writing and research methods in my courses to ensure students succeed both in the classroom, and in their chosen career field. At my future institution I aim to establish a collaborative research group for students to study climate change politics in Africa or related subjects. 
 
+## Example Syllabi
+
+[International Climate Change Politics]({{ '/files/International_Climate_Change_Politics.pdf' | relative_url }})
+
+[Politics and Contemporary Issues in Sub-Saharan Africa]({{ '/files/African_Politics.pdf' | relative_url }})
+
 
 ## Teaching Experience
 
@@ -41,8 +47,3 @@ Drawing from my undergraduate liberal arts experience, I believe that teaching i
   </li>
 </ul>
 
-## Example Syllabi
-
-[International Climate Change Politics]({{ '/files/International_Climate_Change_Politics.pdf' | relative_url }})
-
-[Politics and Contemporary Issues in Sub-Saharan Africa]({{ '/files/African_Politics.pdf' | relative_url }})
