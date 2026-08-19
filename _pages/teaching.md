@@ -43,6 +43,6 @@ Drawing from my undergraduate liberal arts experience, I believe that teaching i
 
 ## Example Syllabi
 
-International Climate Change Politics
+[International Climate Change Politics]({{ '/files/International_Climate_Change_Politics.pdf' | relative_url }})
 
-Politics and Contemporary Issues in Sub-Saharan Africa
+[Politics and Contemporary Issues in Sub-Saharan Africa]({{ '/files/African_Politics.pdf' | relative_url }})
