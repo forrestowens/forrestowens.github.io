@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I believe that teaching is a vital aspect of being a professor. My goal as an instructor is to promote a challenging and inclusive environment for all students. I take great care to promote critical thinking and advance students' understanding of the course material.
+Drawing from my undergraduate liberal arts experience, I believe that teaching is a vital aspect of being a professor. My goal as an instructor is to promote a challenging and inclusive environment for all students. I take great care to promote critical thinking and advance students' understanding of the course material.  I emphasize writing and research methods in my courses to ensure students succeed both in the classroom, and in their chosen career field. At my future institution I aim to establish a collaborative research group for students to study climate change politics in Africa or related subjects. 
 
 
 ## Teaching Experience
@@ -40,3 +40,9 @@ I believe that teaching is a vital aspect of being a professor. My goal as an in
     <span class="teaching-meta">Graduate Teaching Assistant, Winter 2022</span>
   </li>
 </ul>
+
+## Example Syllabi
+
+International Climate Change Politics
+
+Politics and Contemporary Issues in Sub-Saharan Africa
